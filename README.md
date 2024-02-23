@@ -10,7 +10,7 @@ Enthusiam towards research made me to chose a path for pursuing Ph.D (Computer S
 My research mainly focuses on improving the performance of read operations in distributed file system environment, so that the client requests can be served efficiently in a faster manner. Distributed file system acts as a back-end storage for cloud computing systems. To achieve this, I've developed novel HDFS architecture to improve the performance of distributed file system by applying novel Prefetching, caching, and replacement techniques.
 To know more about my research -**[Refer to my Google Scholar profile](https://scholar.google.com/citations?user=k1ImLcYAAAAJ&hl=en&oi=ao)**
 
-On interest, passion, and a goal as an academician, I've started my career as Assistant Professor in **[SRM University-AP](https://srmap.edu.in/)**
+On interest, passion, and a goal as an academician, I joined as an Assistant Professor in **[SRM University-AP](https://srmap.edu.in/)**
 
 My strength are: I'm a highly organized person dedicated with positive attitude, Flexible to learn new things.
 
