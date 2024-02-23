@@ -1,5 +1,5 @@
 # Hi, 👋
-I'm **[Anusha Nalajala]; You can call me '𝑨𝒏𝒖𝒔𝒉𝒂'
+I'm Anusha Nalajala You can call me '𝑨𝒏𝒖𝒔𝒉𝒂'
 
 I've completed my Bachelor's & Master's in Computer Science and Engineering.
 
