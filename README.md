@@ -1,5 +1,5 @@
 # Hi, 👋
-I'm Anusha Nalajala You can call me '𝑨𝒏𝒖𝒔𝒉𝒂'
+I'm **[Anusha Nalajala](https://srmap.edu.in/faculty/anusha-nalajala/)** You can call me '𝑨𝒏𝒖𝒔𝒉𝒂'
 
 I've completed my Bachelor's & Master's in Computer Science and Engineering.
 
@@ -13,6 +13,8 @@ To know more about my research -**[Refer to my Google Scholar profile](https://s
 On interest, passion, and a goal as an academician, I joined as an Assistant Professor in **[SRM University-AP](https://srmap.edu.in/)**
 
 My strength are: I'm a highly organized person dedicated with positive attitude, Flexible to learn new things.
+
+My Research Interests are: Cloud and Edge computing, Machine Learning, Medical Imaging
 
 ## Connect with me
 
